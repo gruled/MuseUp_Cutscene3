@@ -2616,9 +2616,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7439547150530216173}
-  m_LocalRotation: {x: 0, y: 0, z: -0.17364825, w: 0.9848078}
+  m_LocalRotation: {x: -0.24862018, y: -0.043838464, z: -0.16802353, w: 0.9529084}
   m_LocalPosition: {x: 0, y: 1.5, z: -0.163}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 0.79149526, z: 0.79149526}
   m_Children:
   - {fileID: 5756858290248885049}
   m_Father: {fileID: 8255165674988772930}
@@ -2634,6 +2634,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8255165674988772930}
   - component: {fileID: 8659266054550296414}
+  - component: {fileID: 1444021497}
   m_Layer: 0
   m_Name: man_astronaut
   m_TagString: Untagged
@@ -2678,6 +2679,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1444021497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7444895148302183265}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4d5899f59020ca4c8654785c947049b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7517505644397328965
 GameObject:
   m_ObjectHideFlags: 0
@@ -2952,7 +2965,7 @@ Transform:
   m_GameObject: {fileID: 8259641748358437739}
   m_LocalRotation: {x: 0, y: 0, z: 0.17364816, w: 0.9848078}
   m_LocalPosition: {x: 0, y: 1.5, z: -0.163}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.72507334, y: 0.54178876, z: 0.72507334}
   m_Children:
   - {fileID: 7017802507356754539}
   m_Father: {fileID: 8255165674988772930}
