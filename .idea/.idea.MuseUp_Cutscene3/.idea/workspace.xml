@@ -20,28 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffd22a66-6758-4cb4-840d-6f5df3232277" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Mi8/Materials/Mi-8.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mi8/Materials/Mi-8.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mi8/Materials/propeller.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mi8/Materials/propeller.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mi8/Mi8.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mi8/Mi8.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Cutscene_3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Cutscene_3.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Act3.playable" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Act3.playable" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Materials/LOW-POLY-COLORS.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Materials/LOW-POLY-COLORS.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_astronaut.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_astronaut.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_business.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_business.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_casual.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_casual.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_doctor.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_doctor.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_lumberjack.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_lumberjack.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_mechanic.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_mechanic.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_plumber.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_plumber.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_reporter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/man_reporter.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_business.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_business.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_casual.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_casual.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_doctor.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_doctor.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_farm.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_farm.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_lumberjack.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_lumberjack.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_plumber.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_plumber.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_reporter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_reporter.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_scientist.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/polyperfect/Low Poly Animated People/- Prefabs/woman_scientist.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MuseUp_Cutscene3/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MuseUp_Cutscene3/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MuseUp_Cutscene3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MuseUp_Cutscene3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/New Post-processing Profile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/New Post-processing Profile.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602741325169</updated>
-      <workItem from="1602741343384" duration="2543000" />
+      <workItem from="1602741343384" duration="3144000" />
     </task>
     <servers />
   </component>
